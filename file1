@@ -35,3 +35,5 @@ cat test1
   351  git push origin master
 
   352  vim myfile
+
+hi
